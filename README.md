@@ -1,9 +1,5 @@
-Here is the professional, portfolio-ready `README.md` file. It is structured to highlight the **business value** and **technical depth** of your project immediately.
 
-Copy the code block below and overwrite your existing `README.md` file on GitHub.
-
-```markdown
-# 🛡️ Sentinel: Hybrid Financial Fraud Detection System
+# ☣ Sentinel: Hybrid Financial Fraud Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange)
